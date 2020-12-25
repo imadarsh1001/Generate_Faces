@@ -7,6 +7,6 @@ The project will be broken down into a series of tasks from loading in data to d
 
 # Data
 
-we'll be using the CelebFaces Attributes Dataset (CelebA) to train your adversarial networks.
+We'll be using the CelebFaces Attributes Dataset (CelebA) to train your adversarial networks.
 
 This dataset is more complex than the number datasets (like MNIST or SVHN) we've been working with, and so, we should prepare to define deeper networks and train them for a longer time to get good results. It is suggested that we utilize a GPU for training.
